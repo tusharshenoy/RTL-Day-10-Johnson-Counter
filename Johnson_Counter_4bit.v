@@ -1,3 +1,4 @@
+//Verilog Code for Johnson Counter
 module Johnson_Counter_4bit(clk, reset, Q);
 
  input clk; 
